@@ -1,59 +1,78 @@
-<!-- Profile README for Mohammed Tharwat -->
+<!-- GitHub Profile README -->
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Tharwat&fontSize=40&fontColor=ffffff&animation=fadeIn)](#)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:243b55,100:141e30&height=220&section=header&text=Mohammed%20Tharwat&fontSize=42&fontColor=ffffff&animation=fadeIn)](#)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/coding-from-home.png" width="280" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/coding-from-home.png" width="320" />
 </p>
 
-# Hello, I'm Mohammed Tharwat 👋
+<h1 align="center">Mohammed Tharwat</h1>
+<h3 align="center">Software Engineer</h3>
 
-Software Engineer | Backend Developer | API Specialist
-
-I build scalable backend systems and RESTful APIs with modern technologies. Passionate about clean architecture, performance optimization, and building reliable systems.
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+<p align="center">
+Backend Developer • API Specialist • System Architect
+</p>
 
 ---
 
-## 🛠 Technologies & Tools
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/fluency/48/github.png"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.icons8.com/fluency/48/domain.png"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Languages
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+<p>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/php.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+</p>
 
 ### ⚙ Backend & Frameworks
-![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+<p>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/laravel.png"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png"/>
+</p>
 
 ### 🗄 Databases
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+<p>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/redis.png"/>
+</p>
 
 ### 🚀 DevOps & Tools
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+<p>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+</p>
 
 ---
 
 ## 📌 What I Do
 
-- Backend Architecture Design  
+- Backend System Architecture  
 - RESTful API Development  
 - Database Design & Optimization  
-- System Performance & Scalability  
+- Performance & Scalability  
 - Authentication & Security  
 
 ---
@@ -61,11 +80,11 @@ I build scalable backend systems and RESTful APIs with modern technologies. Pass
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,4 +110,4 @@ I build scalable backend systems and RESTful APIs with modern technologies. Pass
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ Feel free to explore my repositories and leave a star if you like my work!
